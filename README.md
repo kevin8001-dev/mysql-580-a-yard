@@ -22,7 +22,7 @@ see   `./mysql570b/.env` for passwords
 ```
 http://10.36.184.19:7314/
 user:root
-password:X(n)UmG95Ar*JpPKFE#s
+
 
 ```
 
